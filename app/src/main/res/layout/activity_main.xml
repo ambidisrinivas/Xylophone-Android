@@ -17,8 +17,7 @@
         android:background="@color/red"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="playC"
-        />
+        android:onClick="playC"/>
 
     <Button
         style="@style/KeyStyle"
@@ -28,8 +27,7 @@
         android:layout_marginRight="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="playD"
-        />
+        android:onClick="playD"/>
 
     <Button
         style="@style/KeyStyle"
@@ -39,8 +37,7 @@
         android:layout_marginRight="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="playE"
-        />
+        android:onClick="playE"/>
 
     <Button
         style="@style/KeyStyle"
@@ -50,8 +47,7 @@
         android:layout_marginRight="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="playF"
-        />
+        android:onClick="playF"/>
 
     <Button
         style="@style/KeyStyle"
@@ -61,8 +57,7 @@
         android:layout_marginRight="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="playG"
-        />
+        android:onClick="playG"/>
 
 
     <Button
@@ -73,8 +68,7 @@
         android:layout_marginRight="25dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="playA"
-        />
+        android:onClick="playA"/>
 
     <Button
         style="@style/KeyStyle"
@@ -84,7 +78,6 @@
         android:layout_marginRight="30dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="playB"
-        />
+        android:onClick="playB"/>
 
 </LinearLayout>
